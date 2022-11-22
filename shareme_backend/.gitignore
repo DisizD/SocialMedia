@@ -1,2 +1,6 @@
 ./shareme_backend/node_modules
 ./shareme_frontend/node_modules
+*.log
+*.tmp
+bin/
+node_modules/
